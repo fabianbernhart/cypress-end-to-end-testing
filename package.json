@@ -1,0 +1,22 @@
+{
+  "name": "cypress-end-to-end-testing",
+  "version": "1.0.0",
+  "description": "A e2e testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianbernhart/cypress-end-to-end-testing.git"
+  },
+  "author": "fabianbernhart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabianbernhart/cypress-end-to-end-testing/issues"
+  },
+  "homepage": "https://github.com/fabianbernhart/cypress-end-to-end-testing#readme",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
