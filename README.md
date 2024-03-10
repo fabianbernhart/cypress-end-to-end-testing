@@ -3,7 +3,14 @@
 
 ## Setup Gitop
 
-Login to (Gitpod.io)[https://gitpod.io/workspaces]
+- Login to [Gitpod.io](https://gitpod.io/workspaces)
+- Click on "New Workspace"
+- Enter the Project git **https://github.com/fabianbernhart/cypress-end-to-end-testing.git**
+- Use the Large Machine
+- Save
+
+## Building Image take long...
+- but after you waited its fancy [af]
 
 
 ## Was musst du als Schüler tun.
