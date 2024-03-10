@@ -1,7 +1,7 @@
 # cypress-end-to-end-testing
 
 
-## Setup Gitop
+## Setup Gitpod
 
 - Login to [Gitpod.io](https://gitpod.io/workspaces)
 - Click on "New Workspace"
@@ -10,17 +10,62 @@
 - Save
 
 ## Building Image take long...
-- but after you waited its fancy [af]
+- but after you waited its fancy af
 
 
 ## Was musst du als Schüler tun.
-- Erstelle im tests Ordner einen Ordner mit deinem Benutzernamen oder echten namen ein Beispiel: fabianbernhart
+1. Erstelle im tests Ordner einen Ordner mit deinem Benutzernamen oder echten namen ein Beispiel: fabianbernhart
 
+
+### Hints
+```
+Hint: replace fabianbernhart with your username or real name.
+Hinweis: ersetze fabianbernhart mit deinem Benutzernamen oder echten namen.
+```
+
+### The Code Structure
 ```
 tests/
- ├── your_user_name/
+ ├── fabianbernhart/
  │   ├── example_spec.js
  ├── .../
 ````
+
+
+
+## Git
+
+2. Erstelle einen neuen Branch
+
+
+### Hints
+```
+Hint: replace fabianbernhart with your username or real name.
+Hinweis: ersetze fabianbernhart mit deinem Benutzernamen oder echten namen.
+```
+
+### Checkout in new Branch
+````sh
+git checkout -b fabianbernhart
+````
+
+### Commit & Push
+Noch nicht Fertig commite und push trotzdem!
+
+````sh
+git commmit
+git push
+````
+
+Finsished: (Pull Rquest)
+
+
+
+## Now Let the testing begin!
+
+
+
+
+
 
 
